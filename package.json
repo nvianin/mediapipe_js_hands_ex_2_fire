@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1632336052",
+    "@mediapipe/hands": "^0.3.1630010197",
+    "webcam-easy": "^1.0.5"
+  }
+}
